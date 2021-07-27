@@ -49,7 +49,6 @@
 
 yosh = int(input("yoshingiz necida?>>>"))
 if yosh>65: print("siz covid 19 risk guruhidasiz")
-else:   print("bosabering:)")
 # x, y = 12,477
 # print("x>y") if x>y else print("x<y")
 
