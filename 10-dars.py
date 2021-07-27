@@ -46,7 +46,6 @@
 # if 2021 - yil < 18:
    # print(f"sizning yoshingiz {2021 - yil},ekan")
    # print("kirish mumkin emas!")
-   
 # x, y = 12,477
 # print("x>y") if x>y else print("x<y")
 
