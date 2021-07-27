@@ -46,9 +46,7 @@
 # if 2021 - yil < 18:
    # print(f"sizning yoshingiz {2021 - yil},ekan")
    # print("kirish mumkin emas!")
-
-yosh = int(input("yoshingiz necida?>>>"))
-if yosh>65: print("siz covid 19 risk guruhidasiz")
+   
 # x, y = 12,477
 # print("x>y") if x>y else print("x<y")
 
