@@ -46,6 +46,37 @@
 # if 2021 - yil < 18:
    # print(f"sizning yoshingiz {2021 - yil},ekan")
    # print("kirish mumkin emas!")
+
+# yosh = int(input("yoshingiz necida?>>>"))
+# if yosh>65: print("siz covid 19 risk guruhidasiz")
+# else:   print("bosabering:)")
 # x, y = 12,477
 # print("x>y") if x>y else print("x<y")
 
+# amaliyot
+cars = ['toyota','mazda','hyundai','gm','kia']
+# for car in cars:
+#   if car !='gm':
+#       print(car.title())
+#   else:
+#       print(car.upper())
+
+
+# login = input('login kiriting:')
+# if login.lower() == 'admin':
+#     print("xus kelibsiz admin.foydalanuvcilar ro'yxatini ko'rasizmi? ")
+# else:
+#     print(f"Xush kelibsiz {login}")
+#
+# x = float(input("birinchi sonni kiriting:"))
+# y = float(input("ikkinci sonni kiriting:"))
+# if x==y: print(f"sonlar teng ekan {x}={y}")
+# else:print(f"jami {x+y} ga teng")
+# son = int(input("istalgan sonni kiriting:"))
+# if son<0:print("son manfiy")
+# else:print("son musbat")
+#
+# ildiz = int(input("istalgan son kiriting:"))
+# if ildiz>0:
+#     print(ildiz**(1/2))
+# else:print("musbat son kiriting:")
