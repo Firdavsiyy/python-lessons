@@ -1,7 +1,7 @@
 # 11-dars bir necta shartlardi tekshirish
 # elif - agar aks holda
 # yosh = int(input("yoshingiz nechida:"))
-# if yosh<=4:
+# if bosh<=4:
 #     narx = 0
 # elif yosh<=12:
 #     narx = 8000
